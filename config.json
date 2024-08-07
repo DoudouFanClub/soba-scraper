@@ -1,0 +1,10 @@
+[
+    {
+        "outputFolderPath": "some_path",
+        "baseUrl": "some_url",
+        "headerRetrievalSection": "title",
+        "excludeHeaderSubsections": "ingroups",
+        "textRetrievalSection": "contents",
+        "linkRetrievalSection": "contents"
+    }
+]
