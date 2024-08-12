@@ -1,7 +1,7 @@
 [
     {
-        "outputFolderPath": "some_path",
-        "baseUrl": "some_url",
+        "outputFolderPath": "\\data\\mak\\vr-force\\online-api\\",
+        "baseUrl": "https://www.mak.com/docs/api/vrforces4.10/classref/index.html",
         "headerRetrievalSection": "title",
         "excludeHeaderSubsections": "ingroups",
         "textRetrievalSection": "contents",
